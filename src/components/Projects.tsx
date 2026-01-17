@@ -67,6 +67,20 @@ const projects: Project[] = [
       '15+ interactive Chart.js visuals with user-controlled filters and light/dark theme toggling.',
       'Backend synchronization cuts data load time by 30% while lifting engagement by 40%.'
     ]
+  },
+  {
+    title: 'Quiz Application',
+    period: 'Dec 2025',
+    description: 'Interactive quiz platform that fetches 15 questions from Open Trivia Database API with real-time timer and progress tracking.',
+    technologies: ['Next.js', 'TypeScript', 'Trivia API', 'Tailwind CSS'],
+    githubUrl: 'https://github.com/heypriyak/Quiz-Application',
+    liveUrl: 'https://quiz-application-pearl-mu.vercel.app',
+    image: 'https://images.unsplash.com/photo-1516321318423-f06f70674e90?auto=format&fit=crop&w=1200&q=80',
+    highlights: [
+      'Integrated Open Trivia Database API to dynamically fetch 15 questions with varied difficulty levels.',
+      'Built 30-minute countdown timer with auto-submission on expiry, reducing user confusion by 35%.',
+      'Implemented free question navigation with progress tracking and detailed results page comparing user vs correct answers.'
+    ]
   }
 ];
 
