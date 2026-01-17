@@ -9,6 +9,7 @@ const projects: Project[] = [
     description: 'Full-Stack EdTech Platform with secure authentication, course management, and payment integration.',
     technologies: ['React.js', 'Express.js', 'MongoDB', 'Tailwind CSS'],
     githubUrl: 'https://github.com/heypriyak/Edu_Nexus',
+    liveUrl: 'https://edunexus-eight.vercel.app',
     image: 'https://images.unsplash.com/photo-1516321318423-f06f70674e90?auto=format&fit=crop&w=1200&q=80',
     highlights: [
       'Constructed a full-stack EdTech platform supporting secure authentication, course management, and payment integration for 2 user roles.',
@@ -60,6 +61,7 @@ const projects: Project[] = [
     description: 'Real-time analytics dashboard with immersive data storytelling and live API feeds.',
     technologies: ['React.js', 'Chart.js', 'Node.js', 'REST APIs'],
     githubUrl: 'https://github.com/heypriyak/Dashboard',
+    liveUrl: 'https://dashboard-gamma-inky-75.vercel.app',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80',
     highlights: [
       '15+ interactive Chart.js visuals with user-controlled filters and light/dark theme toggling.',

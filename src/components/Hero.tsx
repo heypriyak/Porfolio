@@ -65,7 +65,7 @@ export function Hero() {
           className="mb-6"
         >
           <span className="inline-block px-4 py-2 bg-gradient-to-r from-purple-500/20 to-pink-500/20 border border-purple-500/30 rounded-full text-sm text-purple-300 mb-6">
-            🚀 Ready to build cutting-edge solutions
+            🚀 Immediate Joiner | Ready to build cutting-edge solutions
           </span>
         </motion.div>
 
@@ -74,7 +74,7 @@ export function Hero() {
         </h1>
         
         <p className="text-2xl md:text-3xl text-purple-300 mb-3 font-semibold">
-          AI/ML Engineer · Full-Stack Developer · Problem Solver
+          Software Developer Engineer
         </p>
         <p className="text-lg text-gray-300 mb-4 leading-relaxed max-w-2xl mx-auto">
           New Delhi, India · B.Tech CSE @ IIIT Manipur (CGPA 7.6)
